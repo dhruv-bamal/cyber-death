@@ -584,7 +584,7 @@
 
 
   /* ─────────────────────────────────────────
-     MINI-GAME — SHOOT KAASHVI
+     MINI-GAME — SHOOT MAYACHEN
      Flow: instruction (2s) → countdown 3→2→1 → 3s challenge → result
   ───────────────────────────────────────── */
   function launchMiniGame() {
