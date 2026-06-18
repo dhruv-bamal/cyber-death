@@ -12,7 +12,7 @@
 ### `v2.0` — *Helios Protocol*
 
 **A web-based cyberpunk interactive story. Decisions matter. Reflexes matter. Everything matters.**
-Live Demo: https://cyber-death2-0.vercel.app/
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -22,6 +22,8 @@ Live Demo: https://cyber-death2-0.vercel.app/
 </div>
 
 ---
+
+Live Demo: https://cyber-death2-0.vercel.app/
 
 ## ◈ Overview
 
