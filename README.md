@@ -9,7 +9,7 @@
  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-### `v2.0` — *The Signal Continues*
+### `v2.0` — *Helios Protocol*
 
 **A web-based cyberpunk interactive story. Decisions matter. Reflexes matter. Everything matters.**
 
@@ -27,7 +27,7 @@
 
 > *The grid is dark. The AI is awake. The signal is yours to follow — or destroy.*
 
-**CyberDeath 2.0** is the second installment in the CyberDeath series — a browser-based interactive fiction game set in a fractured cyber-future. It builds upon the original narrative while functioning as a fully **standalone experience**.
+**CyberDeath 2.0** is the second installment in the CyberDeath series (Explore the first part in pinned repo) — a browser-based interactive fiction game set in a fractured cyber-future. It builds upon the original narrative while functioning as a fully **standalone experience**.
 
 The game fuses branching storytelling with real-time interaction mechanics, placing you inside a world of rogue AI systems, encrypted signals, and impossible choices between human survival and machine evolution.
 
@@ -66,7 +66,7 @@ Every action echoes. Audio feedback reinforces every critical moment.
 Timed, rapid-input sequences create genuine tension at decisive story moments. Miss your window, and the story shifts.
 
 ### 🌌 Standalone + Expanded Universe
-Play it cold with no prior knowledge, or bring your history from CyberDeath 1. Either way, the signal reaches you.
+Play it cold with no prior knowledge, or bring your history from CyberDeath 1(Find in pinned repo). Either way, the signal reaches you.
 
 ---
 
