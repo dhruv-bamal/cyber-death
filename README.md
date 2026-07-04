@@ -23,7 +23,7 @@
 
 ---
 
-Live Demo: https://cyber-death2-0.vercel.app/
+Live Demo: https://cyber-death.vercel.app/
 
 ## ◈ Overview
 
