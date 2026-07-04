@@ -91,7 +91,7 @@ CyberDeath2.0/
 │
 ├── index.html       ← Main game interface & entry point
 ├── style.css        ← UI styling, animations, visual effects
-├── script.js        ← Game logic, branching, interaction system
+├── main.js          ← Game logic, branching, interaction system
 └── README.md
 ```
 
@@ -102,7 +102,7 @@ CyberDeath2.0/
 ### 1 — Clone
 
 ```bash
-git clone https://github.com/Prakhar3518/Cyberdeath2.0.git
+git clone https://github.com/dhruv-bamal/CyberDeath2.0.git
 ```
 
 ### 2 — Enter
@@ -163,9 +163,17 @@ The series explores the fault lines of a world that gave machines too much — o
 
 ---
 
-## ◈ Author
+## ◈ Built By
 
 <div align="center">
+
+**Dhruv Bamal**
+
+[![Email](https://img.shields.io/badge/Email-bamaldhruv1105%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bamaldhruv1105@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv%20Bamal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-bamal)
+[![GitHub](https://img.shields.io/badge/GitHub-dhruv--bamal-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhruv-bamal)
+
+**&**
 
 **Prakhar Chaudhary**
 
@@ -180,12 +188,12 @@ The series explores the fault lines of a world that gave machines too much — o
 ## ◈ License
 
 ```
-Copyright (c) 2026 Prakhar Chaudhary
+Copyright (c) 2026 Dhruv Bamal & Prakhar Chaudhary
 All rights reserved.
 
 This project and its source code may not be copied, modified, distributed,
 or used for commercial or non-commercial purposes without explicit written
-permission from the author.
+permission from the authors.
 ```
 
 ---
@@ -194,7 +202,7 @@ permission from the author.
 
 *If the signal reached you — give it a* ⭐
 
-**[⭐ Star on GitHub](https://github.com/Prakhar3518/Cyberdeath2.0)**
+**[⭐ Star on GitHub](https://github.com/dhruv-bamal/CyberDeath2.0)**
 
 `// end of transmission`
 
